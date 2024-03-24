@@ -1,0 +1,9 @@
+ITR Filing Procedure-
+
+Visit : https://www.incometax.gov.in/iec/foportal/
+Go to : Help section and Click on view all topic and select return/form applicable to me. There we can see which ITR type we need to file, for salaried employee we have to file ITR-1.
+Create user ID for ITR filing.
+Now do login-
+Login Id: PAN CARD
+After login verify your details.
+Download form 16 and form26-AS (Form26 AS can be downloaded after login to income tax site). For downloading Form26-AS- go to e-File section and click on Income Tax Returns and then click on View Form 26AS and then select assesment year and select view as HTML and click on View/Downloads and then click on Export to PDF.
